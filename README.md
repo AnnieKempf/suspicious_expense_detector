@@ -106,7 +106,7 @@ Unknown Charge | -999.0 | Other
 
 ## How to Run
 
-Close the repository:
+Clone the repository:
 
 ```bash
 git clone <repository-url>
@@ -120,7 +120,7 @@ python main.py
 
 ---
 
-## hat I Learned
+## What I Learned
 
 This project helped me practice:
 
@@ -130,7 +130,7 @@ This project helped me practice:
 - CSV file handling
 - transaction validation
 - logging and debugging
-- processing structured and financial data
+- processing structured financial data
 - generating reports from processed data
 - writing maintainable Python code
 
