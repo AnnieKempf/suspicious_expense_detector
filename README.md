@@ -42,6 +42,7 @@ Example:
 - CSV
 - logging
 - object-oriented programming (OOP)
+- pytest
 
 ---
 
@@ -120,6 +121,13 @@ python main.py
 
 ---
 
+## Running Tests
+
+Run all tests with:
+
+```bash
+python -m pytest
+
 ## What I Learned
 
 This project helped me practice:
@@ -133,6 +141,9 @@ This project helped me practice:
 - processing structured financial data
 - generating reports from processed data
 - writing maintainable Python code
+- writing unit tests with pytest
+- testing isolated business logic
+- validating application behavior
 
 ---
 
